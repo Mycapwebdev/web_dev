@@ -1,0 +1,62 @@
+h1{
+	font-family: piedra;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
+
+hr{
+border: 2px double black;
+width: 50%;
+}
+
+p{
+    font-family: piedra;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 30px;
+	
+}
+
+img {
+  border-radius: 50%;
+  width: 30%;
+  margin-top: 20px;
+}
+.special_Para{
+	font-size: 20px;
+}
+
+#this_is_unique{
+font-size: 20px;
+}
+
+header{
+	background-color: black;
+	padding: 2px;
+}
+
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 120px;
+}
+
+li a{
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: pink;
+	}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: .5px;
+	text-align: center;
+}
